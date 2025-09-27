@@ -33,14 +33,6 @@ Git & GitHub, VS Code, Zowe CLI
 
 ## Projetos
 
-### Sistema de Gerenciamento de Hotel (C)
-- **Repositório:** [Link para o repo](https://)
-- **Descrição:** Sistema em C para cadastro de hóspedes, controle de reservas e check-in/check-out.
-- **Tecnologias:** C (programação estruturada)
-- **Status:** Finalizado
-
----
-
 ### Jogo da Vida (C)
 - **Repositório:** [Link para o repo](https://)
 - **Descrição:** Implementação do autômato celular “Jogo da Vida” de Conway, simulando gerações e padrões no terminal.
