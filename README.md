@@ -8,7 +8,7 @@ Atualmente no 4º semestre, busco oportunidades de **estágio em tecnologia** pa
 
 ## Contato
 - E-mail: pedro.oliveira.tonon@gmail.com
-- LinkedIn: https://www.linkedin.com/in/pedro-paulo-martins-de-oliveira-tonon-159024384
+- LinkedIn: [Link para o LinkedIn](https://www.linkedin.com/in/pedro-paulo-martins-de-oliveira-tonon-159024384)
 
 ---
 
