@@ -34,20 +34,13 @@ Git & GitHub, VS Code, Zowe CLI
 ## Projetos
 
 ### Jogo da Vida (C)
-- **Repositório:** [Link para o repo](https://)
+- **Repositório:** [Link para o repo](https://github.com/PedroTonon/jogo-da-vida-cpp)
 - **Descrição:** Implementação do autômato celular “Jogo da Vida” de Conway, simulando gerações e padrões no terminal.
 - **Tecnologias:** C (estruturas e lógica computacional)
 - **Status:** Finalizado
 
 ---
 
-### Jogo de Dominó (C)
-- **Repositório:** [Link para o repo](https://)
-- **Descrição:** Jogo de dominó em terminal, com lógica para validação de jogadas e manipulação de peças.
-- **Tecnologias:** C (estruturas de dados e lógica de jogo)
-- **Status:** Finalizado
-
----
 
 ## Objetivo
 Continuar expandindo meu conhecimento em **desenvolvimento backend, automação de sistemas e computação de alto desempenho**, sempre aplicando boas práticas e explorando novas tecnologias.  
