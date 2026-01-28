@@ -33,6 +33,13 @@ Git & GitHub, VS Code, Zowe CLI
 
 ## Projetos
 
+### Cadastro de Alunos (Java)
+- **Repositório:** [Link para o repo](https://github.com/PedroTonon/cadastro-alunos-java)
+- **Descrição:** Sistema de cadastro de alunos com interface gráfica, permitindo inserir, remover, listar, salvar e carregar dados de alunos.
+- **Tecnologias:** Java 8, JavaFX, BlueJ
+- **Destaques:** Validação de dados (RG e RA) e persistência em arquivo binário (.bin)
+- **Status:** Finalizado
+
 ### Jogo da Vida (C)
 - **Repositório:** [Link para o repo](https://github.com/PedroTonon/jogo-da-vida-cpp)
 - **Descrição:** Implementação do autômato celular “Jogo da Vida” de Conway, simulando gerações e padrões no terminal.
