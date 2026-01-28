@@ -33,6 +33,13 @@ Git & GitHub, VS Code, Zowe CLI
 
 ## Projetos
 
+### Jogo da Memória (Java)
+- **Repositório:** [Link para o repo](https://github.com/PedroTonon/jogo-da-memoria-java)
+- **Descrição:** Jogo da memória com interface gráfica desenvolvido em Java, no qual o jogador deve encontrar todos os pares de cartas idênticas (mesmo naipe e mesmo valor) para vencer a partida. O jogo conta com menu inicial, animações de cartas e verificação automática de pares.
+- **Tecnologias:** Java 8, JavaFX, BlueJ
+- **Destaques:** Uso de lista duplamente ligada para representar o baralho, matriz para controle do tabuleiro, animações de rotação das cartas e controle de interação durante eventos.
+- **Status:** Finalizado
+
 ### Cadastro de Alunos (Java)
 - **Repositório:** [Link para o repo](https://github.com/PedroTonon/cadastro-alunos-java)
 - **Descrição:** Sistema de cadastro de alunos com interface gráfica, permitindo inserir, remover, listar, salvar e carregar dados de alunos.
